@@ -1,0 +1,6 @@
+{
+  "name": "MobilesPrice Pakistan - 2026 Mobile Prices & Specs",
+  "description": "Find updated retail and wholesale mobile phone prices across Pakistan. Compare specs, RAM, cameras, PTA approval status, and verified dealer rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
